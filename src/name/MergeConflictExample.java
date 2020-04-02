@@ -9,6 +9,7 @@ public class MergeConflictExample {
 	public static void someMethod() {
 		System.out.println("Sarah was here");
 		//Sarah is adding another line
+		//Sarah is adding some code
 	}
 
 }
