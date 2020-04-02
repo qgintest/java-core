@@ -2,7 +2,7 @@ package javaadvanced.interfaces;
 
 
 
-public class Word implements Office {
+public class Word implements Office, Office360 {
 
 	public void New(){
 	System.out.println("Word new .doc");

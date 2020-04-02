@@ -17,6 +17,7 @@ public class ExampleStatic {
 		//staitc methods can only access other static data & methods
 	}
 	
+	//non static method
 	public void nonStaticMethod(){
 		System.out.println("nonStaticVariable = " + nonStaticVariable);
 		nonStaticVariable++;

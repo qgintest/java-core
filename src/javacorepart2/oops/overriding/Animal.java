@@ -3,7 +3,7 @@ package javacorepart2.oops.overriding;
 /*Overriding: When a method of the same name in a sub-class gets called instead of the method
 in the super class
 
-	Purpose: it allows yuo to define behavior that's specific to the subclass type
+	Purpose: it allows you to define behavior that's specific to the subclass type
 	while still implementing a parent class method
 https://www.tutorialspoint.com/java/java_overriding
  */
@@ -16,7 +16,7 @@ public class Animal {
 
 		a.move();
 		b.move();
-		// b.bark();
+		//b.bark(); Compile error
 
 	}
 
