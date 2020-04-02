@@ -12,6 +12,8 @@ public class MergeConflictExample {
 		//Sarah is adding some code
 	}
 	
+
 	//Sarah modified this line
+
 
 }
