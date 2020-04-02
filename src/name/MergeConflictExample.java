@@ -7,7 +7,7 @@ public class MergeConflictExample {
 	}
 	
 	public static void someMethod() {
-		System.out.println("Abe was here");
+		System.out.println("Sarah was here");
 	}
 
 }
