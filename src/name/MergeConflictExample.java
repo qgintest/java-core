@@ -10,5 +10,7 @@ public class MergeConflictExample {
 		System.out.println("Sarah was here");
 		//Sarah is adding another line
 	}
+	
+	//Abe is adding another line to the same file Sarah did.
 
 }
